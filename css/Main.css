@@ -260,7 +260,7 @@ h1 {
   width: 0;
 }
 .hero-home {
-  background-image: url(/images/backimg.jpg);
+  background-image: url(/image/backimg.jpg);
   background-position: center;
 }
 .hero-content {
